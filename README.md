@@ -8,5 +8,5 @@
 
 # MAC Address replacement  
 
-![MAC Addr](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpg)
+![MAC Addr](https://github.com/Karthikeyanmac/ESP-32-Two-way-wireless-communication/blob/main/MAC%20Address%20Replacement.png)
 
