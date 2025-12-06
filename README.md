@@ -19,4 +19,4 @@
 ![OUTPUT2](https://github.com/Karthikeyanmac/ESP-32-Two-way-wireless-communication/blob/main/Serial%20Monitor.png)
 
 📁 Source Code:
-- [Download main.ino](https://github.com/yourname/repo/blob/main/main.ino)
+- [Download main.ino](https://github.com/Karthikeyanmac/ESP-32-Two-way-wireless-communication/blob/main/2_way_communication_using_DHT11.ino)
