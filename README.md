@@ -16,4 +16,4 @@
 
 # OUTPUT 2
 
-![OUTPUT2](https://github.com/Karthikeyanmac/ESP-32-Two-way-wireless-communication/blob/main/MAC%20Address%20Replacement.png)
+![OUTPUT2](https://github.com/Karthikeyanmac/ESP-32-Two-way-wireless-communication/blob/main/Serial%20Monitor.png)
