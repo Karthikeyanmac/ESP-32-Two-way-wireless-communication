@@ -10,3 +10,10 @@
 
 ![MAC Addr](https://github.com/Karthikeyanmac/ESP-32-Two-way-wireless-communication/blob/main/MAC%20Address%20Replacement.png)
 
+# OUTPUT 1
+
+![OUTPUT1](https://github.com/Karthikeyanmac/ESP-32-Two-way-wireless-communication/blob/main/MAC%20Address%20Replacement.png)
+
+# OUTPUT 2
+
+![OUTPUT2](https://github.com/Karthikeyanmac/ESP-32-Two-way-wireless-communication/blob/main/MAC%20Address%20Replacement.png)
